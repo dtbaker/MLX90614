@@ -3,7 +3,7 @@
 #include "i2cmaster.h"
 
 // New slave address
-byte NewMLXAddr = 0x2B;
+byte NewMLXAddr = 0x2F;
 // Uncomment this if you want to change address back to default value (0x5A)
 //byte NewMLXAddr = 0x5A;
 
